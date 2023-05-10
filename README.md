@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Vitorvx88/vitorvx88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Vitor Felipe!
+</br>
 
-Here are some ideas to get you started:
+![Vitorvx88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorvx88&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que eu uso
+
+<div style="display: inline_block"><br/>
+    <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div><br/>
+Sou estudade de Ciência da Computação na UFRPE(Universidade Federal Rural de Pernambuco).
+<br/><br/>
+Desde de novo tenho contato com computadores e já cheguei a trabalhar em um provedor de Internet local como suporte de TI. Atualmente estou estudado para voltar a trabalhar na área e aperfeiçoar meus conhecimentos em relação a programação.<br/>
+<br/>
+
+### Projetos:
+- [Jogo 2D Floresta encantada - Unity C#](https://www.youtube.com/watch?v=5MnxpswjfQk)<br/>
+- [Projeto de Farmacia - Java](https://youtu.be/kb8Zh8qOM-M)<br/>
+
