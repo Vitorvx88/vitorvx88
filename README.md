@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorvx88&hide_progress=false=)](https://github.com/Vitorvx88/)
 
- ![Snake animation]([https://github.com/Vitorvx88/Vitorvx88/blob/output/github-contribution-grid-snake.svg](https://github.com/Vitorvx88))
+ ![Snake animation](https://github.com/Vitorvx88/vitorvx88)
 
 Sou estudade de Ciência da Computação na UFRPE(Universidade Federal Rural de Pernambuco).
 <br/><br/>
