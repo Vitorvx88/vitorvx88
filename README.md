@@ -13,6 +13,9 @@
     <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img onlign="center" alt="htmlS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorvx88&hide_progress=false=)](https://github.com/Vitorvx88/)
+
 Sou estudade de Ciência da Computação na UFRPE(Universidade Federal Rural de Pernambuco).
 <br/><br/>
 Desde de novo tenho contato com computadores e já cheguei a trabalhar em um provedor de Internet local como suporte de TI. Atualmente estou estudado para voltar a trabalhar na área e aperfeiçoar meus conhecimentos em relação a programação.<br/>
